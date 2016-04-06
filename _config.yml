@@ -1,6 +1,6 @@
 name: okinawabootcamp
 favicon: null
-layout_spectrum: 0.9960066501516849
+layout_spectrum: 0.50097
 typography_spectrum: 0.07374341529794037
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#e7811b'
+    - '#3399cc'
+    - '#5abfc0'
+    - '#ffd8b2'
   brandStrength: 0.6343699025455862
   lightness: 0.6914972551167011
   saturation: 0.6047862072009593
