@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[okinawabootcamp]]></title>
         <description><![CDATA[okinawabootcamp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/okinawabootcamp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 03:42:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 03:43:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/okinawabootcamp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4a26137-c4d6-4cfe-b710-5fe5649643aa.jpg">]]></description>
-            <link>undefined83010783-75e1-483e-a21d-c7f6b014e769/index.html</link>
+            <link>https://thegrid.ai/okinawabootcamp/83010783-75e1-483e-a21d-c7f6b014e769/index.html</link>
             <guid isPermaLink="false">83010783-75e1-483e-a21d-c7f6b014e769</guid>
             <pubDate>Fri, 20 May 2016 03:42:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1610c30-f260-412d-9528-0f5aae8253ea.jpg">]]></description>
+            <link>https://thegrid.ai/okinawabootcamp/breaking-a-sweat/index.html</link>
+            <guid isPermaLink="false">2a042b51-f882-48d1-a83b-7edb3e016fb3</guid>
+            <pubDate>Fri, 20 May 2016 03:43:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
